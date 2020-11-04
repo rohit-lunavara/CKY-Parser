@@ -8,6 +8,6 @@ Cocke-Kasami-Younger Parser
 * Retrieved the parse tree from the backpointers
 
 ## Evaluation
-* Obtain set of spans in each tree including nonterminals
-* Compute precision, recall and F-score between predicted tree and target tree
-* Report coverage, average F-score for parsed sentences and all sentences
+* Obtained set of spans in each tree including nonterminals
+* Computed precision, recall and F-score between predicted tree and target tree
+* Reported coverage, average F-score for parsed sentences and all sentences
